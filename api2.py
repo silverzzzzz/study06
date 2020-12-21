@@ -8,6 +8,7 @@ def get_api(url):
 
 
 def main():
+    #Switchのproductid
     productid = "26ae34ea8f6c434c59fb74c7180565de"
     #https://webservice.rakuten.co.jp/api/ichibaitemsearch/参照
     #elements,カンマ区切りで出力pram指定
